@@ -1,5 +1,18 @@
 ### Introduction 👋
 
+Site will soon include my future Projects...
+
+
+
+rest:
+
+Deploying an EC2 Instance on AWS using Terrarform [GitHub Pages] https://github.com/Tim275/Deploy-a-Ec2-instance-in-Terrarform
+
+
+
+
+
+
 <!--
 **Tim275/Tim275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-rest:
-
-Deploying an EC2 Instance on AWS using Terrarform [GitHub Pages] https://github.com/Tim275/Deploy-a-Ec2-instance-in-Terrarform
 
 
 
