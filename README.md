@@ -4,7 +4,7 @@ Site will soon include my future Projects...
 
 
 
-rest:
+other usefull things:
 
 Deploying an EC2 Instance on AWS using Terrarform [GitHub Pages] https://github.com/Tim275/Deploy-a-Ec2-instance-in-Terrarform
 
