@@ -13,7 +13,7 @@ Site will soon include my future Projects...
 
 
 
-
+- ⚡ Fun fact: Pizza with  pineapple is delicious
 
 other usefull things:
 
@@ -21,7 +21,7 @@ other usefull things:
 <br /> [Deploy-a-Ec2-Instance-in-a-VPC-not-default](https://github.com/Tim275/Deploy-a-Ec2-Instance-in-a-VPC-not-default-) <br />
 
 
-- ⚡ Fun fact: Pizza with  pineapple is delicious
+
 
 <!--
 **Tim275/Tim275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
