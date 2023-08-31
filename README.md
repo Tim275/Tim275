@@ -7,7 +7,7 @@ Site will soon include my future Projects...
 
 | Project Link | Area of Analysis | Project Discription|
 |----------|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Cloud Resume| Basic Cloud Knowledge| Row 1, Col 3 |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 
