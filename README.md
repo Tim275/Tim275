@@ -3,6 +3,10 @@
 Site will soon include my future Projects...
 
 
+
+#Machine Learning/Data Science Projects
+-coming soon
+
 #Cloud Projects :cloud:
 
 | Project Link | Area of Analysis | Project Discription|
@@ -12,8 +16,11 @@ Site will soon include my future Projects...
 
 
 
+#SQL 
 
+-coming soon
 
+-->
 
 
 - ⚡ Fun fact: Pizza with  pineapple is delicious
