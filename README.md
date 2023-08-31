@@ -4,10 +4,10 @@ Site will soon include my future Projects...
 
 Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 
--Querying data using SQL.
--Generate reports and perform ad-hoc data analysis using SQL.
--Developing dashboards on Tableau and Looker Studio.
--Data analysis and reporting using Google Sheets and Excel.
+-Q
+-G
+-D
+-D
 
 ### Projects :notebook_with_decorative_cover:
 
