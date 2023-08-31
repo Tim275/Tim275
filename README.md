@@ -7,7 +7,7 @@ Site will soon include my future Projects...
 
 | Project Link | Area of Analysis | Project Discription|
 |----------|----------|----------|
-| Cloud Resume| Basic Cloud Knowledge| creating a personal resume Website, with Best Practices |
+| Cloud Resume| Basic Cloud Knowledge| creating a personal resume website and hosting it on AWS, demonstrating various cloud services and best practices in the process. |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 
