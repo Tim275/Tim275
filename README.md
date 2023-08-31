@@ -3,7 +3,7 @@
 Site will soon include my future Projects...
 
 
-#Cloud Projects
+#Cloud Projects :cloud:
 
 | Project Link | Area of Analysis | Project Discription|
 |----------|----------|----------|
