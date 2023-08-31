@@ -1,4 +1,4 @@
-### Introduction 👋
+### 👋 Introduction 
 
 Site will soon include my future Projects...
 
@@ -9,7 +9,7 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 -D
 -D
 
-### Projects :notebook_with_decorative_cover:
+### :notebook_with_decorative_cover: Projects 
 
 
 #Machine Learning/Data Science Projects
@@ -30,6 +30,7 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 
 -->
 
+🛠️ Tools:
 
 - ⚡ Fun fact: Pizza with  pineapple is delicious
 
