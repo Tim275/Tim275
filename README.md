@@ -35,6 +35,7 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 -Docker
 -Git
 -Kubernetes
+-Linux
 
 - ⚡ Fun fact: Pizza with  pineapple is delicious
 
