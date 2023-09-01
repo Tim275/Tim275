@@ -30,7 +30,7 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 
 -->
 
-🛠️ ## Tools:
+🛠️ #Tools:
 
 -Docker
 -Git
