@@ -12,11 +12,11 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 ### :notebook_with_decorative_cover: Projects 
 
 
-### Machine Learning/Data Science Projects
+### Python
 
-| Project Link | Area of Analysis | Project Discription|
-|----------|----------|----------|
-| Solary Analysis| Data Science/Machine learning,Jupyter Notebook | Evaluate Data and visualize them with Pandas and sealab |
+| Project Link | Area of Analysis | Project Discription | Project Discription|
+|----------|----------|----------|----------------------|
+| Solary Analysis| EDA | Evaluate Data and visualize them with Pandas and sealab |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 
