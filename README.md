@@ -16,7 +16,7 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 
 | Project Link | Area of Analysis | Project Discription|
 |----------|----------|----------|
-| Solary Analysis| Data Science/Machine learning| Evaluate Data and visualize them with Pandas and sealab |
+| Solary Analysis| Data Science/Machine learning, Jupyter Notebook| Evaluate Data and visualize them with Pandas and sealab |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 
