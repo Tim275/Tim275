@@ -14,9 +14,9 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 
 ### Python
 
-| Project Link | Area of Analysis | Project Discription | Project Discription|
+| Project Link | Area of Analysis | Project Discription | Libaries |
 |----------|----------|----------|----------------------|
-| Solary Analysis| EDA | Evaluate Data and visualize them with Pandas and sealab |
+| Solary Analysis| EDA | Analyse a Solary csv | pandas, matplotlib |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 
