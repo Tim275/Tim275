@@ -1,4 +1,4 @@
-### 👋 Introduction 
+## 👋 Introduction 
 
 Site will soon include my future Projects...
 
@@ -12,7 +12,7 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 ### :notebook_with_decorative_cover: Projects 
 
 
-# Machine Learning/Data Science Projects
+### Machine Learning/Data Science Projects
 
 | Project Link | Area of Analysis | Project Discription|
 |----------|----------|----------|
@@ -20,7 +20,7 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 
-# Cloud Projects :cloud:
+### Cloud Projects :cloud:
 
 | Project Link | Area of Analysis | Project Discription|
 |----------|----------|----------|
