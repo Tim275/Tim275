@@ -4,36 +4,15 @@ Site will soon include my future Projects...
 
 Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 
--Q
--G
--D
--D
+- Cloud (AWS)
+- Python
+- .........
+- ..........
 
 ### :notebook_with_decorative_cover: Projects 
 
+Welcome to my portfolio, here is a Overview about my projects^^ [projects](https://github.com/Tim275/Portfolio-Guide/blob/main/README.md).
 
-### Python
-
-| Project Link | Area of Analysis | Project Discription | Libaries |
-|----------|----------|----------|----------------------|
-| Solary Analysis| EDA | Analyse a Solary csv | pandas, matplotlib |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-
-
-### Cloud Projects :cloud:
-
-| Project Link | Area of Analysis | Project Discription| Libaries |
-|----------|----------|----------|----------------------|
-| Cloud Resume| AWS Cloud| creating a personal resume website and hosting it on AWS, demonstrating various cloud services and best practices in the process. | AWS
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-
-
-
-#SQL 
-
--coming soon
-
--->
 
 🛠️ #Tools:
 
@@ -42,9 +21,11 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 -Kubernetes
 -Linux
 
+
+
 - ⚡ Fun fact: Pizza with  pineapple is delicious
 
-other usefull things:
+other usefull things(for a quick view^^):
 
 <br /> [Deploying an EC2 Instance on AWS using Terrarform](https://github.com/Tim275/Deploy-a-Ec2-instance-in-Terrarform) <br />
 <br /> [Deploy-a-Ec2-Instance-in-a-VPC-not-default](https://github.com/Tim275/Deploy-a-Ec2-Instance-in-a-VPC-not-default-) <br />
