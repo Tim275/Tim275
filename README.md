@@ -19,12 +19,6 @@ Welcome to my portfolio, here is a Overview about my projects^^ [projects](https
 <img src="https://github.com/Tim275/Tim275/assets/117520669/115b316f-673b-4bff-9939-50cbd3067465" width="100" height="100" alt="Image description">
 ![image](https://github.com/Tim275/Tim275/assets/117520669/62a41798-3b6e-43bb-9e89-5a901bde4fee)
 
--Git
-
--Kubernetes
-
--Linux
-
 
 
 - ⚡ Fun fact: Pizza with  pineapple is delicious
