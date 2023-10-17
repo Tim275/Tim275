@@ -21,7 +21,7 @@ Welcome to my portfolio, here is a Overview about my projects^^ [projects](https
 
 
 
-- ⚡ Fun fact: Pizza with  pineapple is delicious
+- ⚡ Fun fact: Pizza with  pineapple is delicious.
 
 other usefull things(for a quick view^^):
 
