@@ -1,6 +1,5 @@
 ## 👋 Introduction 
 
-Site will soon include my future Projects...
 
 Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 
