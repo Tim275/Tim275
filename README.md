@@ -28,10 +28,6 @@ Welcome to my portfolio, here is a Overview about my projects^^ [projects](https
 
 - ⚡ Fun fact: Pizza with  pineapple is delicious.
 
-other usefull things(for a quick view^^):
-
-<br /> [Deploying an EC2 Instance on AWS using Terrarform](https://github.com/Tim275/Deploy-a-Ec2-instance-in-Terrarform) <br />
-<br /> [Deploy-a-Ec2-Instance-in-a-VPC-not-default](https://github.com/Tim275/Deploy-a-Ec2-Instance-in-a-VPC-not-default-) <br />
 
 
 
