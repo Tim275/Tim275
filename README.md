@@ -28,8 +28,9 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 
-
-
+<br> </br>
+<br> </br>
+<br> </br>
 <p> </p>
 <p> </p>
 <p> </p>
