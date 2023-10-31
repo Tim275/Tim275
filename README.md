@@ -10,7 +10,7 @@ Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
 
 ### :notebook_with_decorative_cover: Projects 
 
-Welcome to my portfolio, here is a Overview about my projects^^ [Projects](https://github.com/Tim275/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, here is a Overview about my projects^^ [Projects](https://github.com/Tim275/Portfolio-Summary).
 
 
 ### 🔨 Languages and Tools:
