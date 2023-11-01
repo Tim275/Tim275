@@ -31,7 +31,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 <br> </br>
 <br> </br>
 
-<p> - ⚡ Fun fact: Pizza with  pineapple is delicious. </p>
+
 
 
 
