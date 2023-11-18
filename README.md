@@ -17,6 +17,8 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
 
+<a href="https://aws.amazon.com/" target="_blank"> <img align="left" alt="AWS" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></a>
+
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></a>
 
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></a>
