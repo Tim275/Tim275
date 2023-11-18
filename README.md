@@ -31,11 +31,11 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 
-<a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" height="42px" src="URL_TO_IMAGE"></a>
 
-<a href="https://aws.amazon.com/dynamodb/" target="_blank"> <img align="left" alt="DynamoDB" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/dynamodb/dynamodb.png"></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"> <img align="left" alt="DynamoDB" height="42px" src="URL_TO_IMAGE"></a>
 
-<a href="https://seaborn.pydata.org/" target="_blank"> <img align="left" alt="Seaborn" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/seaborn/seaborn.png"></a>
+<a href="https://seaborn.pydata.org/" target="_blank"> <img align="left" alt="Seaborn" height="42px" src="URL_TO_IMAGE"></a>
 
 <br> </br>
 <br> </br>
