@@ -47,7 +47,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 </a>
 
 <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-  <img align="left" alt="DynamoDB" height="32px" src="https://user-images.githubusercontent.com/6509926/70553550-f033b980-1b40-11ea-9192-759b3b1053b3.png">
+  <img align="left" alt="DynamoDB" height="32px" src="https://assets-global.website-files.com/5f05d5858fab461d0d08eaeb/632997305c98774ee5252b81_dynamodb_table_light.svg">
 </a>
 
 
