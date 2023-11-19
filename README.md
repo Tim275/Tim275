@@ -43,7 +43,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a>
 
 
-<a href="https://seaborn.pydata.org/" target="_blank"> <img align="left" alt="Seaborn" height="42px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></a>
+<a href="https://seaborn.pydata.org/" target="_blank"> <img align="left" alt="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"></a>
 
 
 <a href="https://www.mysql.com/" target="_blank">
