@@ -32,7 +32,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="42px" src="[https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png](https://user-images.githubusercontent.com/6509926/70553550-f033b980-1b40-11ea-9192-759b3b1053b3.png)"></a>
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="42px" src="[https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png]"></a>
 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 
