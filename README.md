@@ -43,7 +43,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 
 
 <a href="https://www.mysql.com/" target="_blank">
-  <img align="left" alt="MySQL" height="42px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png">
+  <img align="left" alt="MySQL" height="42px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg">
 </a>
 
 <a href="https://aws.amazon.com/dynamodb/" target="_blank">
