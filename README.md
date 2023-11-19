@@ -40,7 +40,9 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 
 <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a>
 
-<a href="https://aws.amazon.com/dynamodb/" target="_blank"> <img align="left" alt="https://user-images.githubusercontent.com/6509926/70553550-f033b980-1b40-11ea-9192-759b3b1053b3.png"></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank">
+  <img align="left" alt="DynamoDB" height="42px" src="https://user-images.githubusercontent.com/6509926/70553550-f033b980-1b40-11ea-9192-759b3b1053b3.png">
+</a>
 
 <a href="https://seaborn.pydata.org/" target="_blank"> <img align="left" alt="Seaborn" height="42px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></a>
 
