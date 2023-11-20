@@ -57,10 +57,18 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 </a>
 
 
-
 <br> </br>
 <br> </br>
 
+
+<p align="center" dir="auto">
+	<a target="_blank" rel="noopener noreferrer nofollow" href=https://github.com/ilushh/ilushh ><img width="450em" src="https://github-readme-stats-brewdihq.vercel.app/api/?username=ilushh&theme=aura_dark&bg_color=0C1117&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&text_bold=false" style="max-width: 100%;"></a>
+</p>
+
+<p align="center" dir="auto">
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-ilushh.vercel.app/api/top-langs" ><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilushh&theme=aura_dark&layout=compact&hide_border=true&bg_color=0C1117&card_width=350&langs_count=9&cache_seconds=7200&count_private=true"style="max-width: 100%;"></a>
+</p>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
 
 
 
