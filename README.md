@@ -1,12 +1,9 @@
 ## 👋 Introduction 
 
 
-Hello, I'm Timour. Future Devops/Machine learning engineer with expertise in....
+Hello, I'm Timour. Future Devops/Machine learning engineer ...
 
-- Cloud (AWS)
-- Python
-- HTML, Javascript,Typescript & React  (Frontend)
--  Docker & Kubernetes
+
 
 ### :notebook_with_decorative_cover: Projects 
 
