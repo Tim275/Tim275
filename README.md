@@ -49,10 +49,15 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
   <img align="left" alt="MySQL" height="42px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg">
 </a>
 
+
+
 <a href="https://aws.amazon.com/dynamodb/" target="_blank">
   <img align="left" alt="DynamoDB" height="32px" src="https://spin.atomicobject.com/wp-content/uploads/DynamoDB.png">
 </a>
 
+<a href="https://www.postman.com/" target="_blank"> 
+<img align="left" alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+</a>
 
 <br> </br>
 <br> </br>
