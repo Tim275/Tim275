@@ -65,7 +65,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 <br> </br>
 
 
-<p align="centr" dir="auto">
+<p align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href=https://github.com/Tim275/Tim275 ><img width="450em" src="https://github-readme-stats-brewdihq.vercel.app/api/?username=Tim275&theme=aura_dark&bg_color=0C1117&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&text_bold=false" style="max-width: 100%;"></a>
 </p>
 
