@@ -62,7 +62,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 <br> </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim275&layout=compact&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tim275&repo=repoName&theme=dark)](https://github.com/Tim275/repoName)
+
 
 
 
