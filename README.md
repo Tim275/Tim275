@@ -39,7 +39,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 
 <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a>
 
-<a href="https://www.terraform.io/" target="_blank"> <img align="left" alt="Terraform" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></a>
+<a href="https://www.terraform.io/" target="_blank"> <img align="left" alt="Terraform" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/terraform/terraform.svg"></a>
 
 <a href="https://seaborn.pydata.org/" target="_blank">
   <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" align="left" alt="Seaborn" height='42px'/>
