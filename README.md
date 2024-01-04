@@ -52,7 +52,9 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
   <img align="left" alt="MySQL" height="42px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg">
 </a>
 
-
+<a href="https://www.jenkins.io/" target="_blank"> 
+<img align="left" alt="Jenkins" height="42px" src="https://p7.hiclipart.com/preview/811/817/139/jenkins-continuous-integration-build-automation-continuous-delivery-software-build-integration-thumbnail.jpg">
+</a>
 <a href="https://www.ansible.com/" target="_blank"><img align="left" alt="Ansible" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></a>
 
 
