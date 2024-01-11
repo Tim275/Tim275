@@ -58,7 +58,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 
 <a href="https://www.ansible.com/" target="_blank"><img align="left" alt="Ansible" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></a>
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tim275)
 
 <br> </br>
 <br> </br>
