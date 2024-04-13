@@ -59,7 +59,7 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 <a href="https://www.ansible.com/" target="_blank"><img align="left" alt="Ansible" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></a>
 
 <a href="https://prometheus.io/" target="_blank"> 
-<img align="left" alt="Prometheus" height="42px" src="https://prometheus.io/assets/logo.png">
+<img align="left" alt="Prometheus" height="42px" src="https://user-images.githubusercontent.com/1009277/69679135-615fd800-10a6-11ea-8149-7c3b4641b8e1.png">
 </a>
 
 <a href="https://grafana.com/" target="_blank"> 
