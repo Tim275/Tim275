@@ -66,6 +66,11 @@ Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is 
 <img align="left" alt="Grafana" height="42px" src="https://grafana.com/static/assets/img/apple-touch-icon.png">
 </a>
 
+<a href="https://kubernetes.io/" target="_blank"> 
+<img align="left" alt="Kubernetes" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
+</a>
+
+
 <br> </br>
 <br> </br>
 
