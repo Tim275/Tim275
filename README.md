@@ -1,8 +1,7 @@
 ## 👋 Introduction 
 
 
-Hello, I'm Timour. Future Devops/Machine learning engineer ...^^
-
+Hello, I'm Timour. Future Devops
 
 
 
