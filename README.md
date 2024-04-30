@@ -5,10 +5,6 @@ Hello, I'm Timour. Future Devops/Machine learning engineer ...^^
 
 
 
-### :notebook_with_decorative_cover: Projects 
-
-Welcome to my portfolio, [here](https://github.com/Tim275/Portfolio-Summary) is a Overview about my  projects.
-
 
 ### 🔨 Languages and Tools:
 
