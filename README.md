@@ -27,9 +27,11 @@ Hello, I'm Timour, a future DevOps engineer.
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
 
-<a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></a>
+<a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
+
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 
