@@ -60,6 +60,8 @@ Hello, I'm Timour, a future DevOps engineer.
 <img align="left" alt="Grafana" height="42px" src="https://grafana.com/static/assets/img/apple-touch-icon.png">
 </a>
 
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></a>
+
 <a href="https://kubernetes.io/" target="_blank"> 
 <img align="left" alt="Kubernetes" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
 </a>
