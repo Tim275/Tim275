@@ -21,6 +21,8 @@ Hello, I'm Timour, a future DevOps engineer.
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" align="left" alt="git" height='42px'/> </a>
 
+
+
 <a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
@@ -52,6 +54,8 @@ Hello, I'm Timour, a future DevOps engineer.
 <a href="https://www.jenkins.io/" target="_blank"> 
 <img align="left" alt="Jenkins" height="42px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg">
 </a>
+
+<a href="https://github.com/features/actions" target="_blank"> <img align="left" alt="GitHub Actions" height="42px" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"></a>
 
 <a href="https://www.ansible.com/" target="_blank"><img align="left" alt="Ansible" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></a>
 
