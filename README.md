@@ -33,7 +33,6 @@ Hello, I'm Timour, a future DevOps engineer.
 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
 
-<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 
 <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a>
 
@@ -64,7 +63,6 @@ Hello, I'm Timour, a future DevOps engineer.
 <img align="left" alt="Grafana" height="42px" src="https://grafana.com/static/assets/img/apple-touch-icon.png">
 </a>
 
-<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></a>
 
 <a href="https://kubernetes.io/" target="_blank"> 
 <img align="left" alt="Kubernetes" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
