@@ -80,19 +80,13 @@ Hello, I'm Timour, a future DevOps engineer.
 on going:
 
 <a href="https://golang.org/" target="_blank"> <img align="left" alt="Golang" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a>
-
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
-
+<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank"> <img align="left" alt="AWS Solution Architect Associate" height="42px" src="URL_OF_AWS_SOLUTION_ARCHITECT_ASSOCIATE_ICON"></a>
 
 
 <!--
 **Tim275/Tim275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-
-
-
 
 -->
