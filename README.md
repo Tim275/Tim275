@@ -1,7 +1,7 @@
 ## 👋 Introduction 
 
 
-Hello, I'm Timour, a future DevOps engineer.
+Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 
 ### 🔨 Languages and Tools:
