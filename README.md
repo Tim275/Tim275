@@ -85,7 +85,7 @@ Ongoing:
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
 
 <br> </br> 
-Certifications Mentioned:
+Mentioable Certifications
 
 
 <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
