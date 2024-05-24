@@ -88,7 +88,14 @@ Ongoing:
 Certifications Mentioned:
 
 
-<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank"><img align="left" alt="AWS Solution Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png"></a> (It's on my GitHub account)
+<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
+  <img align="left" alt="AWS Solution Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/3a783aa9-6d91-473b-b2fb-028bd32edd79" target="_blank">
+  <img src="https://www.credly.com/images/badges/3a783aa9-6d91-473b-b2fb-028bd32edd79.png" alt="Credly Badge" height="42px">
+</a>
+
 
 
 
