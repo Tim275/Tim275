@@ -82,7 +82,6 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 Ongoing:
 
 <a href="https://golang.org/" target="_blank"><img align="left" alt="Golang" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a>
-<br>
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
 
 Certifications Mentioned:
