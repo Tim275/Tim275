@@ -84,9 +84,10 @@ Ongoing:
 <a href="https://golang.org/" target="_blank"><img align="left" alt="Golang" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
 
+<br> </br> 
 Certifications Mentioned:
 
-<br>
+
 <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank"><img align="left" alt="AWS Solution Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png"></a> (It's on my GitHub account)
 
 
