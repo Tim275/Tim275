@@ -99,7 +99,7 @@ Mentionable Certifications
 Future Certification:
 
 <a href="https://kubernetes.io/" target="_blank">
-  <img align="left" alt="Kubernetes" height="42px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png">
+  <img align="left" alt="Kubernetes" height="42px" src=https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png](https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
 </a>
 
 
