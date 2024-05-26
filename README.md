@@ -95,7 +95,7 @@ Mentionable Certifications
   <img align="left" alt="AWS Solution Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
 </a>
 
-
+<br> </br>
 Future Certification:
 
 <a href="https://kubernetes.io/" target="_blank">
