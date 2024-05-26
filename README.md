@@ -96,7 +96,7 @@ Mentionable Certifications
 </a>
 
 <br> </br>
-Future Certification:
+next Certification:
 
 <a href="https://www.cncf.io/certification/cka/" target="_blank">
   <img align="left" alt="Certified Kubernetes Administrator" height="42px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
