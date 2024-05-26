@@ -81,9 +81,7 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 Ongoing:
 
-<a href="https://kubernetes.io/" target="_blank">
-  <img align="left" alt="Kubernetes" height="42px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png">
-</a>
+
 
 <a href="https://golang.org/" target="_blank"><img align="left" alt="Golang" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a>
 
@@ -98,6 +96,11 @@ Mentionable Certifications
 </a>
 
 
+Future Certification:
+
+<a href="https://kubernetes.io/" target="_blank">
+  <img align="left" alt="Kubernetes" height="42px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png">
+</a>
 
 
 <!--
