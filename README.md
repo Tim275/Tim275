@@ -79,12 +79,10 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 
 
-Ongoing:
+I'm currently learning how to transition from monolithic architectures to microservices using Apache Kafka.
 
-
-
+<a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Apache Kafka" height="42px" src="https://kafka.apache.org/images/logo.png"></a>
 <a href="https://golang.org/" target="_blank"><img align="left" alt="Golang" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a>
-
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
 
 <br> </br> 
@@ -101,6 +99,8 @@ next Certification:
 <a href="https://www.cncf.io/certification/cka/" target="_blank">
   <img align="left" alt="Certified Kubernetes Administrator" height="42px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
 </a>
+
+
 
 
 <!--
