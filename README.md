@@ -77,7 +77,7 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 <br> </br>
 
 
-
+### Ongoing Learning:
 
 I'm currently learning how to transition from monolithic architectures to microservices using Apache Kafka.
 
