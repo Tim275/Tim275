@@ -17,7 +17,7 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
   <img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png">
 </a>
 
-<a href="https://www.rabbitmq.com/" target="_blank"> <img align="left" alt="RabbitMQ" height="42px" src="https://www.rabbitmq.com/img/rabbitmq-logo.svg"></a>
+
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
@@ -57,6 +57,8 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 <img align="left" alt="Jenkins" height="42px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg">
 </a>
 
+
+
 <a href="https://github.com/features/actions" target="_blank"> <img align="left" alt="GitHub Actions" height="42px" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"></a>
 
 <a href="https://www.ansible.com/" target="_blank"><img align="left" alt="Ansible" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></a>
@@ -74,6 +76,7 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 <img align="left" alt="Kubernetes" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
 </a>
 
+<a href="https://www.rabbitmq.com/" target="_blank"> <img align="left" alt="RabbitMQ" height="42px" src="https://www.rabbitmq.com/img/rabbitmq-logo.svg"></a>
 
 <br> </br>
 <br> </br>
