@@ -78,6 +78,10 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 <a href="https://www.rabbitmq.com/" target="_blank"> <img align="left" alt="RabbitMQ" height="42px" src="https://www.rabbitmq.com/img/rabbitmq-logo.svg"></a>
 
+<a href="https://www.nginx.com/" target="_blank"> 
+  <img align="left" alt="NGINX" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+</a>
+
 <br> </br>
 <br> </br>
 
