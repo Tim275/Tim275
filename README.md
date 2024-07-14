@@ -86,7 +86,7 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 <br> </br>
 <br> </br>
-
+<br> </br>
 
 ### Ongoing Learning:
 
@@ -94,7 +94,7 @@ I'm currently learning how to transition from monolithic architectures to micros
 
 <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Apache Kafka" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/631px-Apache_kafka.svg.png"></a>
 <a href="https://golang.org/" target="_blank"><img align="left" alt="Golang" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
+
 
 <br> </br> 
 Mentionable Certifications
