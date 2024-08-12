@@ -37,6 +37,11 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
 
+<a href="https://www.postgresql.org/" target="_blank">
+  <img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+</a>
+
+
 
 <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a>
 
