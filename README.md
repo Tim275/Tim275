@@ -1,5 +1,5 @@
 👋 Introduction
-Hello, I'm Timour, a future Cloud & DevOps engineer.
+Hello, I'm Timour, a Cloud & DevOps engineer.
 
 🔨 Languages:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -14,6 +14,7 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" align="left" alt="C++" height='42px'/> </a>
 
+<br clear="left"/>
 🗄️ Databases:
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
 
@@ -21,6 +22,7 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height="42px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"></a>
 
+<br clear="left"/>
 🛠️ DevOps Tools:
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" alt="AWS" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></a>
 
@@ -48,6 +50,7 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 <a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
 
+<br clear="left"/>
 🧩 Other Tools:
 <a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Pandas" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a>
 
@@ -55,7 +58,7 @@ Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
 
-
+<br clear="left"/>
 
 
 <br> </br>
