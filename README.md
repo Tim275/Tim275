@@ -1,4 +1,4 @@
-# Hi 👋, I'm Timour, a future Cloud & DevOps Engineer
+# Hi 👋, I'm Timour, a Cloud & DevOps Engineer
 
 Welcome to my GitHub profile^^
 
