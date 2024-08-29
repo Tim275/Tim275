@@ -4,7 +4,6 @@ Welcome to my GitHub profile^^
 
 ## 🌟 Languages and Tools
 
-I specialize in various aspects of Cloud and DevOps. Here’s a glimpse of the technologies and tools I work with:
 
 ### 🖥️ Operating Systems
 <p align="left">
