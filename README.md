@@ -1,7 +1,8 @@
 👋 Introduction
-Hello, I'm Timour, a Cloud & DevOps engineer.
+Hello, I'm Timour, a future Cloud & DevOps engineer.
 
 🔨 Languages:
+<br/>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></a>
@@ -16,6 +17,7 @@ Hello, I'm Timour, a Cloud & DevOps engineer.
 
 <br clear="left"/>
 🗄️ Databases:
+<br/>
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
 
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
@@ -24,6 +26,7 @@ Hello, I'm Timour, a Cloud & DevOps engineer.
 
 <br clear="left"/>
 🛠️ DevOps Tools:
+<br/>
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" alt="AWS" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></a>
 
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
@@ -52,6 +55,7 @@ Hello, I'm Timour, a Cloud & DevOps engineer.
 
 <br clear="left"/>
 🧩 Other Tools:
+<br/>
 <a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Pandas" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a>
 
 <a href="https://seaborn.pydata.org/" target="_blank"><img align="left" alt="Seaborn" height="42px" src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png"></a>
@@ -59,7 +63,6 @@ Hello, I'm Timour, a Cloud & DevOps engineer.
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
 
 <br clear="left"/>
-
 
 <br> </br>
 <br> </br>
