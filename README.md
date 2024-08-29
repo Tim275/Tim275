@@ -94,11 +94,11 @@ Welcome to my GitHub profile^^
 
 <br clear="left"/>
 
-### 🧑‍💻 Editor / IDE I ❤️
+### 🗣️ Spoken Languages
 <p align="left">
-  <a href="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" target="_blank"><img align="left" alt="Sublime Text" height="42px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></a>
-  <a href="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" target="_blank"><img align="left" alt="IntelliJ IDEA" height="42px" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"></a>
-  <a href="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" target="_blank"><img align="left" alt="Visual Studio Code" height="42px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a>
+  <img align="left" alt="German" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png">
+  <img align="left" alt="English" height="42px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png">
+  <img align="left" alt="Russian" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/2560px-Flag_of_Russia.svg.png">
 </p>
 
 <br clear="left"/>
