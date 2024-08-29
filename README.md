@@ -1,9 +1,6 @@
 # Hi 👋, I'm Timour, a future Cloud & DevOps Engineer
 
-Welcome to my GitHub profile! I am passionate about Cloud and DevOps technologies and am currently expanding my expertise in these areas. Feel free to reach out for collaboration or any questions you may have!
-
-## 📅 Schedule a 1-on-1 Call
-[Book a Call with me!](#)
+Welcome to my GitHub profile^^
 
 ## 🌟 Languages and Tools
 
