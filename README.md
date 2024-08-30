@@ -125,10 +125,8 @@
 
 
 <br> </br>
-<br> </br>
-<br> </br>
 
-### Ongoing Learning:
+  <h1 align="center"><font face="Arial">Ongoing Learning </font></h1>
 
 I'm currently learning how to transition from monolithic architectures to microservices using Apache Kafka.
 
