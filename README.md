@@ -88,12 +88,14 @@
 </p>
 <br clear="left"/>
 
+
 <!-- Databases -->
 <h3 align="left"><font size="+1" face="Verdana">🗄️ Databases</font></h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
   <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height="42px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"></a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img align="left" alt="DynamoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
 </p>
 <br clear="left"/>
 
