@@ -148,7 +148,7 @@ Mentionable Certifications
 
 <!-- Scrum Master Certification -->
 <a href="https://www.scrum.org/professional-scrum-master-i-certification" target="_blank">
-  <img align="left" alt="Professional Scrum Master I" height="42px" src="https://www.scrum.org/themes/custom/scrumorg/assets/images/certification-logos/psm.png">
+  <img align="left" alt="Professional Scrum Master I" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
 </a>
 <!-- 
 
