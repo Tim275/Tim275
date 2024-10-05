@@ -141,8 +141,14 @@ I'm currently learning how to transition from monolithic architectures to micros
 Mentionable Certifications
 
 
+<!-- AWS Solution Architect Associate Certification -->
 <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
   <img align="left" alt="AWS Solution Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
+</a>
+
+<!-- Scrum Master Certification -->
+<a href="https://www.scrum.org/professional-scrum-master-i-certification" target="_blank">
+  <img align="left" alt="Professional Scrum Master I" height="42px" src="https://www.scrum.org/themes/custom/scrumorg/assets/images/certification-logos/psm.png">
 </a>
 
 <br> </br>
