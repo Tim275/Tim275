@@ -40,7 +40,7 @@
   <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank"><img align="left" alt="GitLab CI/CD" height="42px" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg"></a>
   <a href="https://www.nginx.com/" target="_blank"><img align="left" alt="NGINX" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
   <a href="https://helm.sh/" target="_blank"><img align="left" alt="Helm" height="42px" src="https://helm.sh/img/helm.svg"></a>
-    <a href="https://konghq.com/kong/" target="_blank"><img align="left" alt="Kong API Gateway" height="42px" src="https://cdn.worldvectorlogo.com/logos/kong-1.svg"></a>
+  <a href="https://konghq.com/kong/" target="_blank"><img align="left" alt="Kong API Gateway" height="42px" src="https://cdn.worldvectorlogo.com/logos/kong-1.svg"></a>
 </p>
 <br clear="left"/>
 
