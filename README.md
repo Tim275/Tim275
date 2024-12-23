@@ -8,7 +8,7 @@
 <h2 align="left"><font size="+2" face="Verdana">🌟 Languages and Tools</font></h2>
 
 <p align="left">
-  I specialize in various aspects of Cloud and DevOps. Here’s a glimpse of the technologies and tools I work with:
+  I specialize in various aspects of Cloud,DevOps & backend. Here’s a glimpse of the technologies and tools I work with:
 </p>
 
 <!-- Operating Systems -->
