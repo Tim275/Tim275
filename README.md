@@ -87,11 +87,10 @@
   <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-  <a href="https://golang.org/" target="_blank"><img align="left" alt="Go" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></a>
+  <a href="https://golang.org/" target="_blank"><img align="left" alt="Go" height="42px" src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></a>
 </p>
 <br clear="left"/>
-
 
 
 <!-- Databases -->
