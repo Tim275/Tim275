@@ -133,11 +133,7 @@
 
 <br> </br>
 
-<h2 align="left"><font size="+2" face="Verdana">Ongoing LearningMe</font></h2>
-I'm currently learning how to transition from monolithic architectures to microservices using Apache Kafka.
 
-<a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Apache Kafka" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/631px-Apache_kafka.svg.png"></a>
-<a href="https://golang.org/" target="_blank"><img align="left" alt="Golang" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a>
 
 
 <br> </br> 
