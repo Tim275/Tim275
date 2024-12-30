@@ -67,10 +67,11 @@
 <br clear="left"/>
 
 <!-- Messaging and Streaming -->
+
 <h3 align="left"><font size="+1" face="Verdana">💬 Messaging and Streaming</font></h3>
 <p align="left">
   <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="RabbitMQ" height="42px" src="https://www.rabbitmq.com/img/rabbitmq-logo.svg"></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kafka/kafka.svg"></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" height="42px" src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg"></a>
 </p>
 <br clear="left"/>
 
