@@ -66,12 +66,13 @@
   <a href="https://www.ansible.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ansible" height="42" alt="Ansible" />
   </a>
-  <!-- AWS CDK and SAM Icons Retained -->
+  <!-- AWS CDK Icon -->
   <a href="https://aws.amazon.com/cdk/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/90621382?s=280&v=4" height="42" alt="AWS CDK" />
+    <img src="https://skillicons.dev/icons?i=aws-cdk" height="42" alt="AWS CDK" />
   </a>
+  <!-- AWS SAM Icon -->
   <a href="https://aws.amazon.com/serverless/sam/" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:571/1*pp5T2_yVJAvtB9Y2jFq2wA.png" height="42" alt="AWS SAM" />
+    <img src="https://skillicons.dev/icons?i=aws-sam" height="42" alt="AWS SAM" />
   </a>
 </p>
 <br clear="left"/>
@@ -103,9 +104,8 @@
   <a href="https://www.rabbitmq.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=rabbitmq" height="42" alt="RabbitMQ" />
   </a>
-  <!-- Updated Kafka Icon for Better Dark Mode Visibility -->
   <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kafka-dark" height="42" alt="Kafka" />
+    <img src="https://skillicons.dev/icons?i=kafka" height="42" alt="Kafka" />
   </a>
 </p>
 <br clear="left"/>
@@ -176,9 +176,9 @@
 <!-- Spoken Languages -->
 <h3 align="left"><font size="+1" face="Verdana">🗣️ Spoken Languages</font></h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=de" height="42" alt="German" />
-  <img src="https://skillicons.dev/icons?i=us" height="42" alt="American" />
-  <img src="https://skillicons.dev/icons?i=ru" height="42" alt="Russian" />
+  <img src="https://skillicons.dev/icons?i=de" height="30" alt="German" />
+  <img src="https://skillicons.dev/icons?i=us" height="30" alt="American" />
+  <img src="https://skillicons.dev/icons?i=ru" height="30" alt="Russian" />
 </p>
 <br clear="left"/>
 
@@ -201,6 +201,15 @@
 <a href="https://www.scrum.org/professional-scrum-master-i-certification" target="_blank">
   <img align="left" alt="Professional Scrum Master I" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
 </a>
+
+<!-- 
+<br> </br>
+next Certification:
+
+<a href="https://www.cncf.io/certification/cka/" target="_blank">
+  <img align="left" alt="Certified Kubernetes Administrator" height="42px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
+</a>
+-->
 
 <!-- 
 <br> </br>
