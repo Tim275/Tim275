@@ -4,7 +4,6 @@
 
 <!-- Languages and Tools Section -->
 <h2 align="left"><font size="+2" face="Verdana">🌟 Languages and Tools</font></h2>
-
 <p align="left">
   I specialize in various aspects of Cloud, DevOps & backend. Here’s a glimpse of the technologies and tools I work with:
 </p>
@@ -63,11 +62,11 @@
   <a href="https://www.ansible.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ansible" height="42" alt="Ansible" />
   </a>
-  <!-- AWS CDK Icon - Transparent SVG -->
+  <!-- AWS CDK Icon -->
   <a href="https://aws.amazon.com/cdk/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="42" alt="AWS CDK" />
   </a>
-  <!-- AWS SAM Icon - Transparent SVG -->
+  <!-- AWS SAM Icon -->
   <a href="https://aws.amazon.com/serverless/sam/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="42" alt="AWS SAM" />
   </a>
@@ -182,11 +181,9 @@
 </ul>
 
 <!-- Mentionable Certifications -->
-<br>
 <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
   <img align="left" alt="AWS Solution Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
 </a>
-
 <a href="https://www.scrum.org/professional-scrum-master-i-certification" target="_blank">
   <img align="left" alt="Professional Scrum Master I" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
 </a>
