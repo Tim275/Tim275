@@ -85,13 +85,13 @@
     <img src="https://skillicons.dev/icons?i=elasticsearch" height="42" alt="Elasticsearch" />
   </a>
   <a href="https://www.fluentd.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fluentd" height="42" alt="Fluentd" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/fluentd.svg" height="42" alt="Fluentd" />
   </a>
   <a href="https://www.elastic.co/kibana" target="_blank">
-    <img src="https://raw.githubusercontent.com/elastic/kibana/main/src/core/public/favicon.ico" height="42" alt="Kibana" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/kibana.svg" height="42" alt="Kibana" />
   </a>
   <a href="https://www.elastic.co/logstash" target="_blank">
-    <img src="https://raw.githubusercontent.com/elastic/logstash/master/logstash-core/src/main/resources/logstash-icon.svg" height="42" alt="Logstash" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/logstash.svg" height="42" alt="Logstash" />
   </a>
 </p>
 
