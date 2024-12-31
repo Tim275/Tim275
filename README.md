@@ -66,11 +66,12 @@
   <a href="https://www.ansible.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ansible" height="42" alt="Ansible" />
   </a>
+  <!-- AWS CDK and SAM Icons Retained -->
   <a href="https://aws.amazon.com/cdk/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws-cdk" height="42" alt="AWS CDK" />
+    <img src="https://avatars.githubusercontent.com/u/90621382?s=280&v=4" height="42" alt="AWS CDK" />
   </a>
   <a href="https://aws.amazon.com/serverless/sam/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws-sam" height="42" alt="AWS SAM" />
+    <img src="https://miro.medium.com/v2/resize:fit:571/1*pp5T2_yVJAvtB9Y2jFq2wA.png" height="42" alt="AWS SAM" />
   </a>
 </p>
 <br clear="left"/>
@@ -102,8 +103,9 @@
   <a href="https://www.rabbitmq.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=rabbitmq" height="42" alt="RabbitMQ" />
   </a>
+  <!-- Updated Kafka Icon for Better Dark Mode Visibility -->
   <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kafka" height="42" alt="Kafka" />
+    <img src="https://skillicons.dev/icons?i=kafka-dark" height="42" alt="Kafka" />
   </a>
 </p>
 <br clear="left"/>
