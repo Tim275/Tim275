@@ -16,7 +16,6 @@
     <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" />
   </a>
 </p>
-<br clear="left"/>
 
 <!-- Cloud Platforms -->
 <h3 align="left"><font size="+1" face="Verdana">☁️ Cloud Platforms</font></h3>
@@ -25,7 +24,6 @@
     <img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" />
   </a>
 </p>
-<br clear="left"/>
 
 <!-- DevOps Tools -->
 <h3 align="left"><font size="+1" face="Verdana">🛠️ DevOps Tools</font></h3>
@@ -49,13 +47,12 @@
     <img src="https://skillicons.dev/icons?i=nginx" height="42" alt="NGINX" />
   </a>
   <a href="https://helm.sh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=helm" height="42" alt="Helm" />
+    <img src="https://raw.githubusercontent.com/helm/helm/main/docs/figures/logo.svg" height="42" alt="Helm" />
   </a>
   <a href="https://konghq.com/kong/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kong" height="42" alt="Kong API Gateway" />
   </a>
 </p>
-<br clear="left"/>
 
 <!-- Infrastructure as Code (IaC) -->
 <h3 align="left"><font size="+1" face="Verdana">🏗️ Infrastructure as Code (IaC)</font></h3>
@@ -68,14 +65,13 @@
   </a>
   <!-- AWS CDK Icon - Transparent SVG -->
   <a href="https://aws.amazon.com/cdk/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="42" alt="AWS CDK" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="42" alt="AWS CDK" />
   </a>
   <!-- AWS SAM Icon - Transparent SVG -->
   <a href="https://aws.amazon.com/serverless/sam/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="42" alt="AWS SAM" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="42" alt="AWS SAM" />
   </a>
 </p>
-<br clear="left"/>
 
 <!-- Monitoring and Logging -->
 <h3 align="left"><font size="+1" face="Verdana">📈 Monitoring and Logging</font></h3>
@@ -89,14 +85,16 @@
   <a href="https://www.elastic.co/elasticsearch/" target="_blank">
     <img src="https://skillicons.dev/icons?i=elasticsearch" height="42" alt="Elasticsearch" />
   </a>
+  <a href="https://www.fluentd.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fluentd" height="42" alt="Fluentd" />
+  </a>
+  <a href="https://www.elastic.co/kibana" target="_blank">
+    <img src="https://raw.githubusercontent.com/elastic/kibana/main/src/core/public/favicon.ico" height="42" alt="Kibana" />
+  </a>
   <a href="https://www.elastic.co/logstash" target="_blank">
     <img src="https://raw.githubusercontent.com/elastic/logstash/master/logstash-core/src/main/resources/logstash-icon.svg" height="42" alt="Logstash" />
   </a>
-  <a href="https://www.elastic.co/kibana" target="_blank">
-    <img src="https://raw.githubusercontent.com/elastic/logstash/master/logstash-core/src/main/resources/logstash-icon.svg" height="42" alt="Kibana" />
-  </a>
 </p>
-<br clear="left"/>
 
 <!-- Messaging and Streaming -->
 <h3 align="left"><font size="+1" face="Verdana">💬 Messaging and Streaming</font></h3>
@@ -108,7 +106,6 @@
     <img src="https://skillicons.dev/icons?i=kafka" height="42" alt="Kafka" />
   </a>
 </p>
-<br clear="left"/>
 
 <!-- Development Tools -->
 <h3 align="left"><font size="+1" face="Verdana">🧰 Development Tools</font></h3>
@@ -120,7 +117,6 @@
     <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
   </a>
 </p>
-<br clear="left"/>
 
 <!-- Programming Languages -->
 <h3 align="left"><font size="+1" face="Verdana">💻 Programming Languages</font></h3>
@@ -141,7 +137,6 @@
     <img src="https://skillicons.dev/icons?i=bash" height="42" alt="Bash" />
   </a>
 </p>
-<br clear="left"/>
 
 <!-- Databases -->
 <h3 align="left"><font size="+1" face="Verdana">🗄️ Databases</font></h3>
@@ -159,7 +154,6 @@
     <img src="https://skillicons.dev/icons?i=dynamodb" height="42" alt="DynamoDB" />
   </a>
 </p>
-<br clear="left"/>
 
 <!-- Data Analysis and Visualization -->
 <h3 align="left"><font size="+1" face="Verdana">📊 Data Analysis and Visualization</font></h3>
@@ -171,7 +165,6 @@
     <img src="https://skillicons.dev/icons?i=seaborn" height="42" alt="Seaborn" />
   </a>
 </p>
-<br clear="left"/>
 
 <!-- Spoken Languages -->
 <h3 align="left"><font size="+1" face="Verdana">🗣️ Spoken Languages</font></h3>
@@ -180,7 +173,6 @@
   <img src="https://skillicons.dev/icons?i=us" height="30" alt="American" />
   <img src="https://skillicons.dev/icons?i=ru" height="30" alt="Russian" />
 </p>
-<br clear="left"/>
 
 <!-- How to Reach Me -->
 <h2 align="left"><font size="+2" face="Verdana">📫 How to Reach Me</font></h2>
@@ -189,15 +181,12 @@
   <li><font face="Arial">📫 Email me at: <strong><a href="mailto:timourmiagol@outlook.de">timourmiagol@outlook.de</a></strong></font></li>
 </ul>
 
-<br> </br> 
 <!-- Mentionable Certifications -->
-
-<!-- AWS Solution Architect Associate Certification -->
+<br>
 <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
   <img align="left" alt="AWS Solution Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
 </a>
 
-<!-- Scrum Master Certification -->
 <a href="https://www.scrum.org/professional-scrum-master-i-certification" target="_blank">
   <img align="left" alt="Professional Scrum Master I" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
 </a>
