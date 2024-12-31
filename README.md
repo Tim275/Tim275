@@ -46,8 +46,8 @@
     <img src="https://skillicons.dev/icons?i=nginx" height="42" alt="NGINX" />
   </a>
   <a href="https://helm.sh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/helm/helm/main/docs/figures/logo.svg" height="42" alt="Helm" />
-  </a>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" height="42" alt="Helm" />
+</a>
   <a href="https://konghq.com/kong/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kong" height="42" alt="Kong API Gateway" />
   </a>
