@@ -64,11 +64,11 @@
   </a>
   <!-- AWS CDK Icon -->
   <a href="https://aws.amazon.com/cdk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="42" alt="AWS CDK" />
-  </a>
+    <img src="https://avatars.githubusercontent.com/u/90621382?s=280&v=4" height="42" alt="AWS CDK" />
+  </a> 
   <!-- AWS SAM Icon -->
   <a href="https://aws.amazon.com/serverless/sam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="42" alt="AWS SAM" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT5dwasSXolnrh7_Dqsp1NNBDqV8yIrZefw&s" height="42" alt="AWS SAM" />
   </a>
 </p>
 
