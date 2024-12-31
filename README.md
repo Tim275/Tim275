@@ -66,13 +66,13 @@
   <a href="https://www.ansible.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ansible" height="42" alt="Ansible" />
   </a>
-  <!-- AWS CDK Icon -->
+  <!-- AWS CDK Icon - Transparent SVG -->
   <a href="https://aws.amazon.com/cdk/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws-cdk" height="42" alt="AWS CDK" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="42" alt="AWS CDK" />
   </a>
-  <!-- AWS SAM Icon -->
+  <!-- AWS SAM Icon - Transparent SVG -->
   <a href="https://aws.amazon.com/serverless/sam/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws-sam" height="42" alt="AWS SAM" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="42" alt="AWS SAM" />
   </a>
 </p>
 <br clear="left"/>
@@ -90,10 +90,10 @@
     <img src="https://skillicons.dev/icons?i=elasticsearch" height="42" alt="Elasticsearch" />
   </a>
   <a href="https://www.elastic.co/logstash" target="_blank">
-    <img src="https://skillicons.dev/icons?i=logstash" height="42" alt="Logstash" />
+    <img src="https://raw.githubusercontent.com/elastic/logstash/master/logstash-core/src/main/resources/logstash-icon.svg" height="42" alt="Logstash" />
   </a>
   <a href="https://www.elastic.co/kibana" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kibana" height="42" alt="Kibana" />
+    <img src="https://raw.githubusercontent.com/elastic/logstash/master/logstash-core/src/main/resources/logstash-icon.svg" height="42" alt="Kibana" />
   </a>
 </p>
 <br clear="left"/>
@@ -201,6 +201,15 @@
 <a href="https://www.scrum.org/professional-scrum-master-i-certification" target="_blank">
   <img align="left" alt="Professional Scrum Master I" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
 </a>
+
+<!-- 
+<br> </br>
+next Certification:
+
+<a href="https://www.cncf.io/certification/cka/" target="_blank">
+  <img align="left" alt="Certified Kubernetes Administrator" height="42px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
+</a>
+-->
 
 <!-- 
 <br> </br>
