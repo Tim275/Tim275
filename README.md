@@ -11,85 +11,50 @@
   I specialize in various aspects of Cloud,DevOps & backend. Here’s a glimpse of the technologies and tools I work with:
 </p>
 
-<!-- Operating Systems -->
-<h3 align="left"><font size="+1" face="Verdana">🖥️ Operating Systems</font></h3>
+<h2 align="left"><font size="+2" face="Verdana">🌟 Languages and Tools</font></h2>
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-</p>
-<br clear="left"/>
-
-<!-- Cloud Platforms -->
-<h3 align="left"><font size="+1" face="Verdana">☁️ Cloud Platforms</font></h3>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></a>
-</p>
-<br clear="left"/>
-
-
-
- 
-
-
-<!-- DevOps Tools -->
-<!-- DevOps Tools -->
-<h3 align="left"><font size="+1" face="Verdana">🛠️ DevOps Tools</font></h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
-  <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" height="42px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg"></a>
-  <a href="https://github.com/features/actions" target="_blank"><img align="left" alt="GitHub Actions" height="42px" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"></a>
-  <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank"><img align="left" alt="GitLab CI/CD" height="42px" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg"></a>
-  <a href="https://www.nginx.com/" target="_blank"><img align="left" alt="NGINX" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
-  <a href="https://helm.sh/" target="_blank"><img align="left" alt="Helm" height="42px" src="https://helm.sh/img/helm.svg"></a>
-  <a href="https://konghq.com/kong/" target="_blank"><img align="left" alt="Kong API Gateway" height="42px" src="https://konghq.com/wp-content/uploads/2018/05/kong-logo-github-readme.png"></a>
-</p>
-<br clear="left"/>
-
-<!-- Infrastructure as Code (IaC) -->
-<h3 align="left"><font size="+1" face="Verdana">🏗️ Infrastructure as Code (IaC)</font></h3>
-<p align="left">
-  <a href="https://www.terraform.io/" target="_blank"><img align="left" alt="Terraform" height="42px" src="https://www.svgrepo.com/show/376353/terraform.svg"></a>
-  <a href="https://www.ansible.com/" target="_blank"><img align="left" alt="Ansible" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></a>
-  <a href="https://aws.amazon.com/cdk/" target="_blank"><img align="left" alt="AWS CDK" height="42px" src="https://avatars.githubusercontent.com/u/90621382?s=280&v=4"></a>
-  <a href="https://aws.amazon.com/serverless/sam/" target="_blank"><img align="left" alt="AWS SAM" height="42px" src="https://miro.medium.com/v2/resize:fit:571/1*pp5T2_yVJAvtB9Y2jFq2wA.png"></a>
-</p>
-<br clear="left"/>
-
-<!-- Monitoring and Logging -->
-<h3 align="left"><font size="+1" face="Verdana">📈 Monitoring and Logging</font></h3>
-<p align="left">
-  <a href="https://prometheus.io/" target="_blank"><img align="left" alt="Prometheus" height="42px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prometheus_icon_130229.png"></a>
-  <a href="https://grafana.com/" target="_blank"><img align="left" alt="Grafana" height="42px" src="https://grafana.com/static/assets/img/apple-touch-icon.png"></a>
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img align="left" alt="Elasticsearch" height="42px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"></a>
-  <a href="https://www.elastic.co/logstash" target="_blank"><img align="left" alt="Logstash" height="42px" src="https://brandslogos.com/wp-content/uploads/images/elastic-logstash-logo.png"></a>
-  <a href="https://www.elastic.co/kibana" target="_blank"><img align="left" alt="Kibana" height="42px" src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png"></a>
-</p>
-<br clear="left"/>
-
-<!-- Messaging and Streaming -->
-
-<h3 align="left"><font size="+1" face="Verdana">💬 Messaging and Streaming</font></h3>
-<p align="left">
-  <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="RabbitMQ" height="42px" src="https://www.rabbitmq.com/img/rabbitmq-logo.svg"></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img align="left" alt="Kafka" height="42px" src="https://www.svgrepo.com/show/353950/kafka.svg"></a>
-</p>
-<br clear="left"/>
-<!-- Development Tools -->
-<h3 align="left"><font size="+1" face="Verdana">🧰 Development Tools</font></h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-  <a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
-</p>
-<br clear="left"/>
-
-<!-- Programming Languages -->
-<h3 align="left"><font size="+1" face="Verdana">💻 Programming Languages</font></h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-  <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-  <a href="https://golang.org/" target="_blank"><img align="left" alt="Go" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg"></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></a>
+  <!-- Operating Systems -->
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" />
+  
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" />
+  
+  <!-- DevOps Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="42" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="42" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="42" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="42" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="42" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="42" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="42" alt="Ansible" />
+  
+  <!-- Monitoring / Logging -->
+  <img src="https://skillicons.dev/icons?i=grafana" height="42" alt="Grafana" />
+  <img src="https://skillicons.dev/icons?i=elastic" height="42" alt="Elasticsearch" />
+  
+  <!-- Messaging / Streaming -->
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="42" alt="RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="42" alt="Kafka" />
+  
+  <!-- Development Tools -->
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
+  
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=go" height="42" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=bash" height="42" alt="Bash" />
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" />
+  
+  <!-- Data Analysis -->
+  <img src="https://skillicons.dev/icons?i=pandas" height="42" alt="Pandas" />
 </p>
 <br clear="left"/>
 
