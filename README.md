@@ -188,8 +188,7 @@
   <img align="left" alt="Professional Scrum Master I" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
 </a>
 
-<!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim275&layout=compact&theme=radical" alt="Top Languages" />
+
 
 
 <!-- 
