@@ -168,9 +168,9 @@
 <!-- Spoken Languages -->
 <h3 align="left"><font size="+1" face="Verdana">🗣️ Spoken Languages</font></h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=de" height="30" alt="German" />
-  <img src="https://skillicons.dev/icons?i=us" height="30" alt="American" />
-  <img src="https://skillicons.dev/icons?i=ru" height="30" alt="Russian" />
+  <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg" height="30" alt="German" />
+  <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg" height="30" alt="American" />
+  <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg" height="30" alt="Russian" />
 </p>
 
 <!-- How to Reach Me -->
