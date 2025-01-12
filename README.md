@@ -2,7 +2,7 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Timour, a Cloud & DevOps Engineer</font></h1>
 <h3 align="center"><font face="Arial">Welcome to my GitHub profile!</font></h3>
 
-<!-- Languages and Tools Section -->
+<!-- Languages and Tools Section --->
 <h2 align="left"><font size="+2" face="Verdana">🌟 Languages and Tools</font></h2>
 <p align="left">
   I specialize in various aspects of Cloud, DevOps & backend. Here’s a glimpse of the technologies and tools I work with:
