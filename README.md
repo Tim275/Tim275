@@ -127,6 +127,7 @@
 </p>
 
   <!-- Add Raspberry Pi Icon -->
+   <!-- Add Raspberry Pi Icon -->
   <a href="https://www.raspberrypi.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Raspberry_Pi_logo.svg/512px-Raspberry_Pi_logo.svg.png" height="42" alt="Raspberry Pi" />
   </a>
