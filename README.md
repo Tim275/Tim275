@@ -17,6 +17,10 @@
 </p>
 
 
+<!-- Raspberry Pi Icon -->
+<a href="https://www.raspberrypi.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="42" alt="Raspberry Pi" />
+</a>
 
 
 
