@@ -16,6 +16,15 @@
   </a>
 </p>
 
+
+
+
+
+
+
+
+
+
 <!-- Cloud Platforms -->
 <h3 align="left"><font size="+1" face="Verdana">☁️ Cloud Platforms</font></h3>
 <p align="left">
@@ -114,6 +123,12 @@
   </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
+  </a>
+</p>
+
+  <!-- Add Raspberry Pi Icon -->
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Raspberry_Pi_logo.svg/512px-Raspberry_Pi_logo.svg.png" height="42" alt="Raspberry Pi" />
   </a>
 </p>
 
