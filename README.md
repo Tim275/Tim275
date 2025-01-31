@@ -202,7 +202,9 @@
 <a href="https://www.scrum.org/professional-scrum-master-i-certification" target="_blank">
   <img align="left" alt="Professional Scrum Master I" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
 </a>
-
+<a href="https://www.cncf.io/certification/cka/" target="_blank">
+  <img align="left" alt="Certified Kubernetes Administrator (CKA)" height="42px" src="https://www.cncf.io/wp-content/uploads/2022/07/cka-logo.svg">
+</a>
 
 
 
