@@ -1,4 +1,4 @@
-<!-- Header Section ---->
+<!-- Header Section ----->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Timour, a Cloud & DevOps Engineer</font></h1>
 <h3 align="center"><font face="Arial">Welcome to my GitHub profile!</font></h3>
 
