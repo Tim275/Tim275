@@ -203,10 +203,10 @@
   <img align="left" alt="Professional Scrum Master I (PSM I)" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
 </a>
 <a href="https://www.cncf.io/certification/cka/" target="_blank">
-  <img align="left" alt="Certified Kubernetes Administrator (CKA)" height="42px" src="https://www.cncf.io/wp-content/uploads/2022/07/cka-logo.svg">
+  <img align="left" alt="Certified Kubernetes Administrator (CKA)" height="42px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite.png">
 </a>
 <a href="https://www.cncf.io/certification/cks/" target="_blank">
-  <img align="left" alt="Certified Kubernetes Security Specialist (CKS)" height="42px" src="https://www.cncf.io/wp-content/uploads/2022/07/cks-logo.svg">
+  <img align="left" alt="Certified Kubernetes Security Specialist (CKS)" height="42px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cks_from_cncfsite.png">
 </a>
 
 
