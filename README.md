@@ -195,20 +195,20 @@
   <li><font face="Arial">📫 Email me at: <strong><a href="mailto:timourmiagol@outlook.de">timourmiagol@outlook.de</a></strong></font></li>
 </ul>
 
-<!-- Mentionable Certifications -->
+
+<!-- Mentionable Certifications (Shields.io Style) -->
 <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
-  <img align="left" alt="AWS Certified Solutions Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
+  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </a>
 <a href="https://www.scrum.org/professional-scrum-master-i-certification" target="_blank">
-  <img align="left" alt="Professional Scrum Master I (PSM I)" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
+  <img src="https://img.shields.io/badge/Professional_Scrum_Master_I_(PSM_I)-2A5C8A?style=for-the-badge&logo=scrumalliance&logoColor=white">
 </a>
 <a href="https://www.cncf.io/certification/cka/" target="_blank">
-  <img align="left" alt="Certified Kubernetes Administrator (CKA)" height="42px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite.png">
+  <img src="https://img.shields.io/badge/Certified_Kubernetes_Administrator_(CKA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </a>
 <a href="https://www.cncf.io/certification/cks/" target="_blank">
-  <img align="left" alt="Certified Kubernetes Security Specialist (CKS)" height="42px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cks_from_cncfsite.png">
+  <img src="https://img.shields.io/badge/Certified_Kubernetes_Security_Specialist_(CKS)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </a>
-
 
 <!-- 
 <br> </br>
