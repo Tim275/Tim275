@@ -197,15 +197,17 @@
 
 <!-- Mentionable Certifications -->
 <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
-  <img align="left" alt="AWS Solution Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
+  <img align="left" alt="AWS Certified Solutions Architect Associate" height="42px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png">
 </a>
 <a href="https://www.scrum.org/professional-scrum-master-i-certification" target="_blank">
-  <img align="left" alt="Professional Scrum Master I" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
+  <img align="left" alt="Professional Scrum Master I (PSM I)" height="42px" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png">
 </a>
 <a href="https://www.cncf.io/certification/cka/" target="_blank">
   <img align="left" alt="Certified Kubernetes Administrator (CKA)" height="42px" src="https://www.cncf.io/wp-content/uploads/2022/07/cka-logo.svg">
 </a>
-
+<a href="https://www.cncf.io/certification/cks/" target="_blank">
+  <img align="left" alt="Certified Kubernetes Security Specialist (CKS)" height="42px" src="https://www.cncf.io/wp-content/uploads/2022/07/cks-logo.svg">
+</a>
 
 
 <!-- 
