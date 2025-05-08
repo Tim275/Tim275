@@ -186,6 +186,9 @@
   <a href="https://www.cncf.io/certification/cka/" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes_CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   </a>
+  <a href="https://www.cncf.io/certification/ckad/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes_CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  </a>
   <a href="https://www.cncf.io/certification/cks/" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes_CKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   </a>
