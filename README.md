@@ -5,7 +5,7 @@
 <!-- Languages and Tools Section -->
 <h2 align="left"><font size="+2" face="Verdana">🌟 Languages and Tools</font></h2>
 <p align="left">
-  I specialize in various aspects of Cloud, DevOps & backend. Here’s a glimpse of the technologies and tools I work with:
+  I specialize in various aspects of Cloud, DevOps & backend. Here's a glimpse of the technologies and tools I work with:
 </p>
 
 <!-- Operating Systems -->
@@ -183,14 +183,8 @@
   <a href="https://www.scrum.org/certificates/543991" target="_blank">
     <img src="https://img.shields.io/badge/Scrum_PSM_I-2A5C8A?style=for-the-badge&logo=scrumalliance&logoColor=white">
   </a>
-  <a href="https://www.cncf.io/certification/cka/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes_CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  </a>
-  <a href="https://www.cncf.io/certification/ckad/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes_CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  </a>
-  <a href="https://www.cncf.io/certification/cks/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes_CKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <a href="https://www.cncf.io/training/kubeastronaut/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_KubeAstronaut-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   </a>
 </p>
 
