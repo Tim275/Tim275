@@ -23,7 +23,7 @@
 <h3 align="left"><font size="+1" face="Verdana">🖧 Virtualization / Hypervisor</font></h3>
 <p align="left">
   <a href="https://www.proxmox.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" height="42" alt="Proxmox" />
+    <img src="https://www.proxmox.com/images/proxmox/Proxmox_symbol_standard_hex_400px.png" height="42" alt="Proxmox" />
   </a>
 </p>
 
@@ -79,11 +79,11 @@
   <a href="https://aws.amazon.com/serverless/sam/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT5dwasSXolnrh7_Dqsp1NNBDqV8yIrZefw&s" height="42" alt="AWS SAM" />
   </a>
-  <a href="https://opentofu.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-repo/icons/opentofu.svg" height="42" alt="OpenTofu" />
+  <a href="https://opentofu.org/" target="_blank">
+    <img src="https://opentofu.org/img/logo.svg" height="42" alt="OpenTofu" />
   </a>
   <a href="https://talos.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-repo/icons/talos.svg" height="42" alt="Talos" />
+    <img src="https://www.talos.dev/images/logo.svg" height="42" alt="Talos" />
   </a>
 </p>
 
