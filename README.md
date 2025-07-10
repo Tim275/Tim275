@@ -23,7 +23,7 @@
 <h3 align="left"><font size="+1" face="Verdana">🖧 Virtualization / Hypervisor</font></h3>
 <p align="left">
   <a href="https://www.proxmox.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" height="42" alt="Proxmox" />
+    <img src="https://cdn.simpleicons.org/proxmox" height="42" alt="Proxmox" />
   </a>
 </p>
 
@@ -57,10 +57,16 @@
     <img src="https://skillicons.dev/icons?i=nginx" height="42" alt="NGINX" />
   </a>
   <a href="https://helm.sh/" target="_blank">
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" height="42" alt="Helm" />
+    <img src="https://cdn.simpleicons.org/helm" height="42" alt="Helm" />
   </a>
   <a href="https://konghq.com/kong/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kong" height="42" alt="Kong API Gateway" />
+  </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank">
+    <img src="https://cdn.simpleicons.org/argo" height="42" alt="ArgoCD" />
+  </a>
+  <a href="https://fluxcd.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/flux" height="42" alt="Flux" />
   </a>
 </p>
 
@@ -74,38 +80,39 @@
     <img src="https://skillicons.dev/icons?i=ansible" height="42" alt="Ansible" />
   </a>
   <a href="https://aws.amazon.com/cdk/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/90621382?s=280&v=4" height="42" alt="AWS CDK" />
+    <img src="https://cdn.simpleicons.org/amazonaws" height="42" alt="AWS CDK" />
   </a>
   <a href="https://aws.amazon.com/serverless/sam/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT5dwasSXolnrh7_Dqsp1NNBDqV8yIrZefw&s" height="42" alt="AWS SAM" />
+    <img src="https://cdn.simpleicons.org/awslambda" height="42" alt="AWS SAM" />
+  </a>
   <a href="https://opentofu.org/" target="_blank">
-  <img src="https://cdn.dashboardicons.com/opentofu.svg" height="42" alt="OpenTofu" />
-</a>
+    <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/opentofu/opentofu-original.svg" height="42" alt="OpenTofu" />
+  </a>
   <a href="https://talos.dev/" target="_blank">
-    <img src="https://www.talos.dev/images/logo.svg" height="42" alt="Talos" />
+    <img src="https://cdn.simpleicons.org/talos" height="42" alt="Talos" />
   </a>
 </p>
 
-<!-- Monitoring and Logging -->
+<!-- Monitoring and Logging (EFK Stack + Prometheus/Grafana) -->
 <h3 align="left"><font size="+1" face="Verdana">📈 Monitoring & Logging</font></h3>
 <p align="left">
   <a href="https://prometheus.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=prometheus" height="42" alt="Prometheus" />
+    <img src="https://cdn.simpleicons.org/prometheus" height="42" alt="Prometheus" />
   </a>
   <a href="https://grafana.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=grafana" height="42" alt="Grafana" />
+    <img src="https://cdn.simpleicons.org/grafana" height="42" alt="Grafana" />
   </a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=elasticsearch" height="42" alt="Elasticsearch" />
+    <img src="https://cdn.simpleicons.org/elasticsearch" height="42" alt="Elasticsearch" />
   </a>
   <a href="https://www.fluentd.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/fluentd.svg" height="42" alt="Fluentd" />
+    <img src="https://cdn.simpleicons.org/fluentd" height="42" alt="Fluentd" />
   </a>
   <a href="https://www.elastic.co/kibana" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/kibana.svg" height="42" alt="Kibana" />
+    <img src="https://cdn.simpleicons.org/kibana" height="42" alt="Kibana" />
   </a>
   <a href="https://www.elastic.co/logstash" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/logstash.svg" height="42" alt="Logstash" />
+    <img src="https://cdn.simpleicons.org/logstash" height="42" alt="Logstash" />
   </a>
 </p>
 
@@ -113,10 +120,10 @@
 <h3 align="left"><font size="+1" face="Verdana">💬 Messaging & Streaming</font></h3>
 <p align="left">
   <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rabbitmq" height="42" alt="RabbitMQ" />
+    <img src="https://cdn.simpleicons.org/rabbitmq" height="42" alt="RabbitMQ" />
   </a>
   <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kafka" height="42" alt="Kafka" />
+    <img src="https://cdn.simpleicons.org/apachekafka" height="42" alt="Kafka" />
   </a>
 </p>
 
