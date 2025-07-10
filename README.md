@@ -85,13 +85,3 @@
 ### 📫 Contact Me
 💬 Ask me about **Cloud & DevOps**  
 📫 <a href="mailto:timourmiagol@outlook.de">timourmiagol@outlook.de</a>
-
-
-
-
-<!--
-**Tim275/Tim275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
