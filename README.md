@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Timour, a Cloud & DevOps Engineer</font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I am Timour, a Cloud & DevOps Engineer</font></h1>
 <h3 align="center"><font face="Arial">Welcome to my GitHub profile!</font></h3>
 <!-- Languages and Tools Section -->
 <h2 align="left"><font size="+2" face="Verdana">🌟 Tech Stack & Tools</font></h2>
