@@ -122,9 +122,10 @@
     <a href="https://www.keycloak.org/" target="_blank">
       <img src="https://cdn.simpleicons.org/keycloak" height="42" alt="Keycloak" />
     </a>
-    <a href="https://sealed-secrets.netlify.app/" target="_blank">
-      <img src="https://cdn.simpleicons.org/bitnami" height="42" alt="Sealed Secrets" />
-    </a>
+     <a href="https://github.com/bitnami-labs/sealed-secrets" target="_blank">                                                                                
+    <img src="https://avatars.githubusercontent.com/u/15859888?s=42&v=4" height="42" alt="Sealed Secrets" />
+  </a>                                                                                                                                                     
+            
   </p>
 
   <!-- Message Brokers & Streaming -->
