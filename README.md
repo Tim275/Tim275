@@ -230,5 +230,4 @@
   <h2 align="left"><font size="+2" face="Verdana">📫 Contact Me</font></h2>
   <ul>
     <li><font face="Arial">💬 Ask me about <strong>Cloud & DevOps</strong></font></li>
-    <li><font face="Arial">📫 <a href="mailto:timourmiagol@outlook.de">timourmiagol@outlook.de</a></font></li>
   </ul>
