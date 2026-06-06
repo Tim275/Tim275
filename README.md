@@ -106,7 +106,7 @@
       <img src="https://skillicons.dev/icons?i=nginx" height="42" alt="NGINX" />
     </a>
     <a href="https://konghq.com/kong/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=kong" height="42" alt="Kong API Gateway" />
+      <img src="https://0x79.one/pEFvlg" height="42" alt="Kong API Gateway" />
     </a>
     <a href="https://istio.io/" target="_blank">
       <img src="https://cdn.simpleicons.org/istio" height="42" alt="Istio" />
@@ -194,7 +194,7 @@
       <img src="https://skillicons.dev/icons?i=arch" height="42" alt="Arch Linux" />
     </a>
     <a href="https://www.proxmox.com/" target="_blank">
-      <img src="https://cdn.simpleicons.org/proxmox" height="42" alt="Proxmox" />
+      <img src="https://0x79.one/DUZRyI" height="42" alt="Proxmox" />
     </a>
     <a href="https://talos.dev/" target="_blank">
       <img src="https://cdn.simpleicons.org/talos" height="42" alt="Talos" />
